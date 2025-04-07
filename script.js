@@ -44,6 +44,26 @@ class Hero{
     
   }
 }
+class Favorites{
+  constructor(){
+    this.comics[any];
+  }
+  addFavorite(comic){
+
+  };
+  removeFavorite(comicId){
+
+  };
+  showFavorites(){
+
+  };
+  addMultipleFavorites(...comics){
+
+  };
+  copyFavorites(){
+
+  };
+}
 const seat = new Car("seat", "ibiza", 20000, 200, 2023);
 seat.carAntiguaty = 5;
 console.log(seat.carAntiguaty);
